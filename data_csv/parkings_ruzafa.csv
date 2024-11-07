@@ -1,0 +1,11 @@
+Nombre del Aparcamiento,Dirección,Número de Plazas,Horario de Apertura,geo_shape,geo_point_2d
+Parking Mercado de Ruzafa,"Plaza Barón de Cortes s/n, 46006 Valencia",No especificado,24 horas,"{""type"": ""Point"", ""coordinates"": [-0.376288, 39.46056]}","39.46056, -0.376288"
+Aparcamiento AZA - Ruzafa,"Calle General San Martín, 13, 46004 Valencia",220,24 horas,"{""type"": ""Point"", ""coordinates"": [-0.3745, 39.4662]}","39.4662, -0.3745"
+"Parking Cirilo Amorós, 8","Calle de Cirilo Amorós, 8, 46004 Valencia",No especificado,No especificado,"{""type"": ""Point"", ""coordinates"": [-0.3738, 39.4665]}","39.4665, -0.3738"
+"Parking Calle Sueca, 9","Calle de Sueca, 9, 46004 Valencia",No especificado,No especificado,"{""type"": ""Point"", ""coordinates"": [-0.3732, 39.4628]}","39.4628, -0.3732"
+Parking Plaza del Ayuntamiento,"Calle de Roger de Llòria, 2, 46002 Valencia",No especificado,No especificado,"{""type"": ""Point"", ""coordinates"": [-0.3754, 39.4699]}","39.4699, -0.3754"
+"Parking Reino de Valencia, 16","Avenida del Reino de Valencia, 16, 46005 Valencia",No especificado,No especificado,"{""type"": ""Point"", ""coordinates"": [-0.3721, 39.4637]}","39.4637, -0.3721"
+"Parking Matías Perelló, 23","Calle de Matías Perelló, 23, 46005 Valencia",No especificado,No especificado,"{""type"": ""Point"", ""coordinates"": [-0.3709, 39.4621]}","39.4621, -0.3709"
+"Parking Literato Azorín, 13","Calle del Literato Azorín, 13, 46006 Valencia",No especificado,No especificado,"{""type"": ""Point"", ""coordinates"": [-0.3730, 39.4609]}","39.4609, -0.3730"
+"Parking Gran Vía Germanías, 21","Gran Vía de les Germanies, 21, 46004 Valencia",No especificado,No especificado,"{""type"": ""Point"", ""coordinates"": [-0.3740, 39.4645]}","39.4645, -0.3740"
+"Parking Sueca, 74","Calle de Sueca, 74, 46006 Valencia",No especificado,No especificado,"{""type"": ""Point"", ""coordinates"": [-0.3725, 39.4598]}","39.4598, -0.3725"
